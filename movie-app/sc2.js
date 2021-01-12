@@ -9,9 +9,9 @@ const form = document.getElementById("form");
 const search = document.getElementById("search");
 
 const titleK =    ["viktor" , "Bild" , "Tit"];
-const bildK =     ["LOL" , "Bild" , "../10Hours10Projects.png"];
-const OverviewK = ["viktor ist gut" , "Test2" , "../10Hours10Projects.png"];
-const carK =      ["" , "j" , "../10Hours10Projects.png"];
+const bildK =     ["LOL" , "Bild" , "./10Hours10Projects.png"];
+const OverviewK = ["viktor ist gut" , "Test2" , "./10Hours10Projects.png"];
+const carK =      ["" , "j" , "./10Hours10Projects.png"];
 
 var par = getUrl(window.location.href);
 
